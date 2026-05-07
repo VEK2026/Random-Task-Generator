@@ -13,18 +13,5 @@ GUI-приложение «Random Task Generator» с использование
 ## Как запустить
 git clone https://github.com/VEK2026/Expense Tracker.git 
 cd Expense Tracker 
-python main.pyНазвание проекта («Expense Tracker» для отслеживания личных расходов)
-Автор: Гоголева Полина Вариант: №1
-Дата сдачи: 05.05.2026 ---
+python main.py
 
-Описание программы
-Кратко: что делает программа, зачем она нужна, какие проблемы решает. Пример:
-"«Expense Tracker» - программа для отслеживания личных расходов. Реализует подсчёт суммы расходов за выбранный период. Фильтрует: ○ По категории ○ По дате Сохраняут и загружает данные через JSON. Проверяуе корректность ввода:" ---
-
-Требования для запуска
-Что нужно установить на компьютер: - Python 3.10 или выше - Библиотеки: pip install matplotlib requests ---
-
-Как запустить
-git clone https://github.com/VEK2026/Expense Tracker.git 
-cd Expense Tracker 
-python main.py 
