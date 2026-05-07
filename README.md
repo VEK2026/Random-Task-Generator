@@ -11,7 +11,7 @@ GUI-приложение «Random Task Generator» с использование
 Что нужно установить на компьютер: - Python 3.10 или выше - Библиотеки: pip install matplotlib requests ---
 
 ## Как запустить
-git clone (https://github.com/VEK2026/Random-Task-Generator) 
+git clone (https://github.com/VEK2026/Random-Task-Generator/tree/main) 
 cd Expense Tracker 
 python main.py
 
